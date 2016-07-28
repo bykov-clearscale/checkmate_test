@@ -1,2 +1,2 @@
 #!/bin/bash
-ps axuf > log
+ps af > log
